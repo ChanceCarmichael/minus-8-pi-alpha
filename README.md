@@ -3,11 +3,12 @@ A work in progress for authors to share their literary contributions with the wo
 
 Theme: Create a platform where authors may share their books with the online community and get free publicity to drive demand and increase interest in their creations.
 
-  Initiative: Authors can post their creations to the internet
+  Initiative: KDP Authors can post their creations to the internet
   
     Epic: As an author, I can post my book to this app for free
       Story: As an author, I want to have an easy interface where I can upload my book
-      Story: As an author, I can provide a link for readers to view my book on Amazon
+      Story: As an author, I can provide a link for readers to view my book on Amazon 
+      Story: As an author, I can provide a link for readers to view my author profile
       Story: As an author, I can promote my book to readers for a 5 day period of time
       Story: As an author who has already promoted my book for 5 days, I can choose to extend my promotion
       
@@ -25,7 +26,7 @@ Theme: Create a platform where authors may share their books with the online com
    
   Initiative: Advertisers can promote their products
   
-    Epic: As an advertiser, I want to the users of this app see my products
+    Epic: As an advertiser, I want the users of this app to see my products
       Story: As an advertiser, I can communicate with the app owners about how I want my product visualized
       Story: As an advertiser, I want feedback as to how effective my marketing is
       
